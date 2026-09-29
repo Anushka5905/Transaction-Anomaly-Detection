@@ -1,6 +1,0 @@
-D:\Transaction Anomaly System\transaction-anomaly-system\src\main\java\com\transactionanomaly\Main.java
-D:\Transaction Anomaly System\transaction-anomaly-system\src\main\java\com\transactionanomaly\db\DatabaseConnection.java
-D:\Transaction Anomaly System\transaction-anomaly-system\src\main\java\com\transactionanomaly\db\TransactionDAO.java
-D:\Transaction Anomaly System\transaction-anomaly-system\src\main\java\com\transactionanomaly\model\Transaction.java
-D:\Transaction Anomaly System\transaction-anomaly-system\src\main\java\com\transactionanomaly\ml\AnomalyDetector.java
-D:\Transaction Anomaly System\transaction-anomaly-system\src\main\java\com\transactionanomaly\ui\DashboardView.java
